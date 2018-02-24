@@ -1,0 +1,115 @@
+h2 h4 {
+	padding: 0px;
+	margin: 0px;
+	}
+p {
+	margin: 15px;
+}
+
+table {
+	padding: 10px 0px 0px 10px; 
+	}
+
+td {
+	vertical-align: top;
+	border: solid 1px black;
+	}
+	
+#head-container {	
+	background-color: #F3F3f3;
+	display: inline-flex;
+	font-family: verdana;
+	width: 970px; 
+	}
+
+#header-aboutMe {
+	padding-left: 10px;
+	margin: 0px 10px 0px 15px;
+	background: linear-gradient(#c1c1c1, #999);
+	color: #fff;
+	display: inline-block;
+	width: 410px;
+	position: relative;
+	}
+
+#aboutMe img {
+	width: 485px;
+	border-style: solid;
+	border-width: thick;
+	border-color: white;
+	}
+
+#h1-name #h2-name {
+	font-family: verdana;
+	}
+
+#h1-name {
+ 	width: 485px;
+	}
+
+#h2-name {
+	width: 100%;
+	text-align: right;
+	padding-right: 15px;
+	}
+
+.container-body {
+	background: linear-gradient(#625262, #27191d);
+	width: 970px;
+	}
+
+.header-overal {
+	padding-left: 5px;
+	margin: 0px 10px 0px 0px;
+	background: linear-gradient(#898894, #A8A8AD, #898894);
+	color: #fff;
+	display: inline-block;
+	width: 300px;
+	position: relative;
+	}
+
+
+.container-three {
+	background: linear-gradient(to right, #FFF, #D8CDD9);
+	margin: 0px;
+	padding:0px 0px 0px 0px;
+	}		
+
+.images img {
+	width: 305px;
+	}
+
+.firstheader {
+	margin-left: 15px;
+}
+
+#aboutMe-text {
+	width: 485px;
+	}
+
+#aboutMe-declaration {
+	background-color: #f8f6f8;
+	padding: 5px;
+	margin-left: 15px;
+	width: 410px;
+	height: 250px;
+	}
+
+.logos img {
+	display: inline-block;
+	width: 30px;
+	margin: 10px;
+	}
+
+.button {
+	text-align: center;
+	border-color: green;
+	border-style: solid;
+}
+
+
+.contact img {
+	display: inline-block;
+	position: relative;
+	width: 20px;
+	}
